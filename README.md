@@ -1,1 +1,4 @@
 # IEEE-Visualization-2008-Design-Contest
+Scalar and Vector Field Visualization 
+<br/>
+Numerical simulations of the first stars in the universe reveal that they formed in isolation several hundred million years before the first primitive galaxies were assembled and that they were very massive: 100 - 500 solar masses. With surface temperatures greater than 100,000 K they were millions of times brighter than the sun, with most of their light in the form of hard (energetic) UV radiation. These UV photons could not simply stream into the universe because they were capable of ionizing H and He into ions and free electrons. Instead, they advanced behind an abrupt wall of radiation known as an ionization front (or I-front) at well below the speed of light. The I-front itself is the extremely thin layer separating the hot (20,000 K), completely ionized gas from the cold (72 K), neutral gas beyond the front.
